@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Nesse repositorio eu demonstro como usar o serverless framework para criar uma api serverless na aws, com express, api gateway e dynamo db.
+Uma api serverless na aws, com express, api gateway e dynamo db.
 
 ### Stack
 
